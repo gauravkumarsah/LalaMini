@@ -1,0 +1,58 @@
+.row {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    border: 1px solid #6d6a6a;
+   }
+   
+   
+   .row > * {
+    flex: 1;
+   }
+   
+   
+   .colMs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   }
+   
+   
+   .colTb {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   }
+   
+   
+   .colDt {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 100%;
+   }
+   
+   
+   .colDs {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+   }
+   
+   
+   .colPm {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+   }
+   
+   
+   .colP {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    border: 1px solid #6d6a6a;
+   }
+   
+   
+   
